@@ -7,11 +7,18 @@
 	
 }
 img{
-	width:350px;
+	width:450px;
 }
 button{
 	padding:15px;
 	background-color:#fc7526;
 	color:white;
 	border-radius:10px;
+	margin-left:186px
+}
+p{
+	padding-left:46px;
+}
+h1{
+	padding-left:126px;
 }
